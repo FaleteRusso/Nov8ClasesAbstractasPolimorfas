@@ -11,8 +11,9 @@ public class Vendedor extends Empleado {
     @Override
     public String toString() {
         return "Vendedor{" +
-                "ventas=" + ventas +
-                ", comision=" + comision +
+                "comision=" + comision +
+                ", nombre='" + nombre + '\'' +
+                ", sueldo=" + sueldo +
                 '}';
     }
 

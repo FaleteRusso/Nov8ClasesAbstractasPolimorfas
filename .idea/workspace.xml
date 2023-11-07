@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce78bb6f-cd83-438d-bfe9-eef8612382e9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Bateria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Flauta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Guitarra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/InstrumentoMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/prueba/PruebaInstrumentoMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/prueba/PolimorfismoInstrumentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/corenetworks/prueba/ProbarPolimorfismo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/modelo/Vendedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corenetworks/prueba/PruebaInstrumentoMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corenetworks/prueba/PruebaInstrumentoMusical.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,33 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PruebaInstrumentoMusical">
+  <component name="RunManager" selected="Application.PolimorfismoInstrumentos">
+    <configuration name="PolimorfismoInstrumentos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.prueba.PolimorfismoInstrumentos" />
+      <module name="Nov7ClasesAbstractas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProbarPolimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corenetworks.prueba.ProbarPolimorfismo" />
+      <module name="Nov7ClasesAbstractas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corenetworks.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PruebaEmpleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.corenetworks.prueba.PruebaEmpleado" />
       <module name="Nov7ClasesAbstractas" />
@@ -93,7 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolimorfismoInstrumentos" />
         <item itemvalue="Application.PruebaInstrumentoMusical" />
+        <item itemvalue="Application.ProbarPolimorfismo" />
         <item itemvalue="Application.PruebaEmpleado" />
         <item itemvalue="Application.PruebaFigura" />
       </list>
@@ -116,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699372786352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1699375124738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699375124738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1699375126820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699375126820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
